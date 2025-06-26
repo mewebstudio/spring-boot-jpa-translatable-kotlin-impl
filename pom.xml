@@ -30,7 +30,7 @@
         <java.version>17</java.version>
         <kotlin.version>1.9.25</kotlin.version>
         <ulid-creator.version>5.2.3</ulid-creator.version>
-        <spring-boot-jpa-translatable-kotlin.version>0.1.0</spring-boot-jpa-translatable-kotlin.version>
+        <spring-boot-jpa-translatable-kotlin.version>0.1.1</spring-boot-jpa-translatable-kotlin.version>
     </properties>
     <dependencies>
         <dependency>
